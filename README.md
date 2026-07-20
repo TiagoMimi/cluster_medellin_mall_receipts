@@ -40,3 +40,5 @@ The raw dataset contains **453,396 observations** and **14 variables**.
 - Category
 - Subcategory
 - Day of the Week
+
+_NOTE: The data original langague is spanish (Colombian's official language), we translate the columns names and rows before_
