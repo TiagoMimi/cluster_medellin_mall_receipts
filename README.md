@@ -4,7 +4,7 @@ In Colombia, shopping malls play an important role in the retail industry. In on
 
 Shopping malls are also popular social spaces. People often meet there to spend time together, have ice cream, drink coffee, or simply walk around and browse the stores ("window shopping," known in Colombia as *vitrinear*).
 
-For this reason, shopping malls seek to collect as much information as possible about their customers' preferences, such as:
+For this reason, shopping malls seek to collect as much information as possible about their customer's preferences, such as:
 
 - What did they buy?
 - How much money did they spend?
